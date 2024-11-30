@@ -1,0 +1,21 @@
+{
+	"keybindings": {
+		"Home": {
+			"<q>": "Quit",
+			"<down>": "Down",
+			"<up>": "Up",
+			"<d>": "Delete",
+			"<shift-down>": "ShiftDown",
+			"<shift-up>": "ShiftUp",
+			"<ctrl-z>": "Suspend"
+		}
+	},
+	"styles": {
+		"Home": {
+			"default": "white on gray",
+			"highlighted": "black on cyan",
+			"table_header": "cyan on black",
+			"focused": "cyan on black"
+		}
+	}
+}
